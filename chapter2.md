@@ -1,7 +1,7 @@
 Git 命令行
 ====
 
-![原理图](ruanyifeng.com/blogimg/asset/2015/bg2015120901.png)
+[原理图]http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png
 
 - Workspace：工作区
 - Index / Stage：暂存区
